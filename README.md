@@ -1,4 +1,4 @@
-Student Dashboard:
+#Student Dashboard:
 
 The dashboard shows student details by gender, age, department, course, year, and city.
 
